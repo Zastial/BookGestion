@@ -2,6 +2,10 @@
 
 Ce projet est une simple application de gestion de bibliothèque en Java, utilisant Maven pour la gestion des dépendances et JUnit 5 pour les tests.
 
+## Auteur
+Alexandre CAROL
+ESGI M1 - IW 4e année
+
 ## Prérequis
 
 - Java 17 ou supérieur
