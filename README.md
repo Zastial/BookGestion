@@ -2,6 +2,8 @@
 
 Ce projet est une simple application de gestion de bibliothèque en Java, utilisant Maven pour la gestion des dépendances et JUnit 5 pour les tests.
 
+[![Java CI with Maven](https://github.com/Zastial/BookGestion/actions/workflows/maven.yml/badge.svg)](https://github.com/Zastial/BookGestion/actions/workflows/maven.yml)
+
 ## Auteur
 Alexandre CAROL
 ESGI M1 - IW 4e année
